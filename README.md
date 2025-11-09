@@ -1,3 +1,5 @@
+# Ababeel AFS
+
 This is an autonomous flight code stack, providing a complete solution for GPS-denied quadcopter autonomy.
 
 ## High-level Code Structure
@@ -6,7 +8,7 @@ This is an autonomous flight code stack, providing a complete solution for GPS-d
 
 ## Documentation and Instructions
 
-Please refer to [our Wiki page](https://github.com/KumarRobotics/kr_autonomous_flight/wiki) for detailed instructions about how to use this code.
+Please refer to [our wiki page](https://github.com/KumarRobotics/kr_autonomous_flight/wiki) for detailed instructions about how to use this code.
 
 ## Videos
 
@@ -15,12 +17,6 @@ Please refer to [our Wiki page](https://github.com/KumarRobotics/kr_autonomous_f
 [Real-world experiments in fast, autonomous, GPS-Denied quadrotor flight](https://m.youtube.com/watch?v=6eeetSVHXPk)
 
 [Simulation experiments in fast, autonomous flight in urban and rural environments](https://www.youtube.com/watch?v=l1esgtJ4C6s)
-
-## Contributing
-
-Report issues: Open an [issue](https://github.com/KumarRobotics/kr_autonomous_flight/issues) on Github.
-
-Merge code changes: Open a [pull request](https://github.com/KumarRobotics/kr_autonomous_flight/pulls) on Github.
 
 ## Citation
 
